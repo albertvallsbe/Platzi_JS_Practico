@@ -45,3 +45,18 @@ function circlearea(circleradius) {
 
 console.groupEnd();
 
+function calculatePerimeterSquare(){
+    const input = document.getElementById("SquareInput");
+    const value = input.value;
+
+    const perimeter = squareperimeter(value);
+    alert(perimeter);
+};
+
+function calculateAreaSquare(){
+    const input = document.getElementById("SquareInput");
+    const value = input.value;
+
+    const area = squarearea(value);
+    alert(area);
+};
