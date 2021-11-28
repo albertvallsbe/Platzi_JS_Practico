@@ -1,9 +1,12 @@
 = curso_practico_javascript =
 
-== Taller #1: Figuras Geométricas ==
+== Taller #1: Geometric Figures ==
 
 === Pasos a seguir ===
 
-. Implementar formules javaScript
-. Crear funcions
-. Integrar javaScript i html
+. Implement JavaScript formula
+. Create functions
+. Integrate javaScript and html
+
+== WorkShop #2: Online Shop ==
+
