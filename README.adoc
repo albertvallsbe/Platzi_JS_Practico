@@ -1,12 +1,28 @@
 = curso_practico_javascript =
 
-== Taller #1: Geometric Figures ==
+== Workshop #1: Geometric Figures ==
 
-=== Pasos a seguir ===
+=== How to ===
 
+. Define math formulas
 . Implement JavaScript formula
 . Create functions
 . Integrate javaScript and html
 
 == WorkShop #2: Online Shop ==
 
+=== How to ===
+
+. Define math formulas
+. Implement JavaScript formula
+. Create functions
+. Integrate javaScript and html
+
+== WorkShop #3:  ==
+
+=== How to ===
+
+. Define math formulas
+. Implement JavaScript formula
+. Create functions
+. Integrate javaScript and html
