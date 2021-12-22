@@ -20,9 +20,10 @@ const listMoney = [
     100,
     200,
     500,
+    
     40000000,
 ];
-
+ 
 const halfListMoney = parseInt(listMoney.length / 2);
 
 function isEven(number) {
