@@ -26,3 +26,6 @@
 . Implement JavaScript formula
 . Create functions
 . Integrate javaScript and html
+
+
+. q
